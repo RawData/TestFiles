@@ -1,4 +1,4 @@
-Copy code
+
 Private Sub ObfuscatedCode()
     Call Execute(Base64Decode("JG1haW4gPSAiSEki"))
 End Sub
